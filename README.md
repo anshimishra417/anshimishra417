@@ -9,7 +9,7 @@ Passionate about building real-world software and solving hard problems.
 
 - 🔐 **[SecureLang](https://github.com/anshimishra417/securelang)** — A custom compiler that enforces security at the language level (SQL injection prevention, password masking, input validation)
 - 🎯 **[AI Interview System](https://github.com/anshimishra417/ai-interview-and-evaluation)** — Full-stack interview simulator with NLP-based answer evaluation and performance tracking
-- 🕷️ **[Alibaba RFQ Scraper](https://github.com/anshimishra417/alibaba-rfq-scraper)** — Selenium-based web scraper for extracting RFQ listings
+- 📊 **[Student Performance Analytics](https://github.com/anshimishra417/student-performance-analytics)** — ML-powered dashboard that predicts grades, identifies weak subjects, generates study timetables and analyzes feedback sentiment
 
 ---
 
