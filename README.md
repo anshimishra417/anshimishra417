@@ -1,6 +1,6 @@
 # Hi, I'm Anshi Mishra 👋
 
-3rd year B.Tech Computer Science student at Graphic Era Hill University  
+4th year B.Tech Computer Science student at Graphic Era Hill University  
 Passionate about building real-world software and solving hard problems.
 
 ---
